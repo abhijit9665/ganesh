@@ -56,3 +56,5 @@ def update_data(request,id):
 
     return render(request,'myapp/update.html',{'form':fm})
    
+   
+   #..........
